@@ -1,0 +1,15 @@
+
+regra CamelCase
+MinhaClasse = AlunosCursoEmVideo
+
+meuAtributo     = nomeAluno
+
+minhaVariável   = mediaPrimeroBimestre
+
+meuMétodo       = lancarNotaAluno
+
+meu_pacote      = alunoscursoemvideo 
+
+MINHA_CONSTANTE = VALOR_DE_PI
+
+
